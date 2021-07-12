@@ -1,0 +1,11 @@
+C:\Users\Dima\Desktop\BetConstruct Internship\hw12.07.2021\MyLinkedList\MyLinkedList\bin\Debug\netcoreapp3.1\MyLinkedList.exe
+C:\Users\Dima\Desktop\BetConstruct Internship\hw12.07.2021\MyLinkedList\MyLinkedList\bin\Debug\netcoreapp3.1\MyLinkedList.deps.json
+C:\Users\Dima\Desktop\BetConstruct Internship\hw12.07.2021\MyLinkedList\MyLinkedList\bin\Debug\netcoreapp3.1\MyLinkedList.runtimeconfig.json
+C:\Users\Dima\Desktop\BetConstruct Internship\hw12.07.2021\MyLinkedList\MyLinkedList\bin\Debug\netcoreapp3.1\MyLinkedList.runtimeconfig.dev.json
+C:\Users\Dima\Desktop\BetConstruct Internship\hw12.07.2021\MyLinkedList\MyLinkedList\bin\Debug\netcoreapp3.1\MyLinkedList.dll
+C:\Users\Dima\Desktop\BetConstruct Internship\hw12.07.2021\MyLinkedList\MyLinkedList\bin\Debug\netcoreapp3.1\MyLinkedList.pdb
+C:\Users\Dima\Desktop\BetConstruct Internship\hw12.07.2021\MyLinkedList\MyLinkedList\obj\Debug\netcoreapp3.1\MyLinkedList.csprojAssemblyReference.cache
+C:\Users\Dima\Desktop\BetConstruct Internship\hw12.07.2021\MyLinkedList\MyLinkedList\obj\Debug\netcoreapp3.1\MyLinkedList.AssemblyInfoInputs.cache
+C:\Users\Dima\Desktop\BetConstruct Internship\hw12.07.2021\MyLinkedList\MyLinkedList\obj\Debug\netcoreapp3.1\MyLinkedList.AssemblyInfo.cs
+C:\Users\Dima\Desktop\BetConstruct Internship\hw12.07.2021\MyLinkedList\MyLinkedList\obj\Debug\netcoreapp3.1\MyLinkedList.dll
+C:\Users\Dima\Desktop\BetConstruct Internship\hw12.07.2021\MyLinkedList\MyLinkedList\obj\Debug\netcoreapp3.1\MyLinkedList.pdb
