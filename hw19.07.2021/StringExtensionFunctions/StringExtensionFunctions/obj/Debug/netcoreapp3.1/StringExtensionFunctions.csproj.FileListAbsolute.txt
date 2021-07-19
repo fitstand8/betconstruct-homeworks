@@ -1,0 +1,11 @@
+C:\Users\Dima\Desktop\BetConstruct Internship\hw19.07.2021\StringExtensionFunctions\StringExtensionFunctions\bin\Debug\netcoreapp3.1\StringExtensionFunctions.exe
+C:\Users\Dima\Desktop\BetConstruct Internship\hw19.07.2021\StringExtensionFunctions\StringExtensionFunctions\bin\Debug\netcoreapp3.1\StringExtensionFunctions.deps.json
+C:\Users\Dima\Desktop\BetConstruct Internship\hw19.07.2021\StringExtensionFunctions\StringExtensionFunctions\bin\Debug\netcoreapp3.1\StringExtensionFunctions.runtimeconfig.json
+C:\Users\Dima\Desktop\BetConstruct Internship\hw19.07.2021\StringExtensionFunctions\StringExtensionFunctions\bin\Debug\netcoreapp3.1\StringExtensionFunctions.runtimeconfig.dev.json
+C:\Users\Dima\Desktop\BetConstruct Internship\hw19.07.2021\StringExtensionFunctions\StringExtensionFunctions\bin\Debug\netcoreapp3.1\StringExtensionFunctions.dll
+C:\Users\Dima\Desktop\BetConstruct Internship\hw19.07.2021\StringExtensionFunctions\StringExtensionFunctions\bin\Debug\netcoreapp3.1\StringExtensionFunctions.pdb
+C:\Users\Dima\Desktop\BetConstruct Internship\hw19.07.2021\StringExtensionFunctions\StringExtensionFunctions\obj\Debug\netcoreapp3.1\StringExtensionFunctions.csprojAssemblyReference.cache
+C:\Users\Dima\Desktop\BetConstruct Internship\hw19.07.2021\StringExtensionFunctions\StringExtensionFunctions\obj\Debug\netcoreapp3.1\StringExtensionFunctions.AssemblyInfoInputs.cache
+C:\Users\Dima\Desktop\BetConstruct Internship\hw19.07.2021\StringExtensionFunctions\StringExtensionFunctions\obj\Debug\netcoreapp3.1\StringExtensionFunctions.AssemblyInfo.cs
+C:\Users\Dima\Desktop\BetConstruct Internship\hw19.07.2021\StringExtensionFunctions\StringExtensionFunctions\obj\Debug\netcoreapp3.1\StringExtensionFunctions.dll
+C:\Users\Dima\Desktop\BetConstruct Internship\hw19.07.2021\StringExtensionFunctions\StringExtensionFunctions\obj\Debug\netcoreapp3.1\StringExtensionFunctions.pdb
